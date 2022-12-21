@@ -6,6 +6,7 @@ h1 {text-align: center
 h2 {text-align: center 
 }
 
+
 .container {
   padding: 0 40px;
   text-align: center
@@ -101,7 +102,7 @@ header{
 }
 /* navbar */
 nav{
-  color: #FFF;
+  color: black;
   float: right;
   margin:30px 90px;
 }
@@ -114,7 +115,7 @@ nav ul li {
 }
 nav ul li a{
   text-decoration: none;
-  color: #EFEEF5;
+  color: black;
   transition: .5;
   font-size: 15px;
   margin-left:16px;
